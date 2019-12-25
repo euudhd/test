@@ -1,0 +1,7 @@
+#开发环境
+server:
+  port: 8001
+
+app:
+  msg: dev..
+
